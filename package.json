@@ -1,0 +1,26 @@
+{
+  "name": "namsthe_react",
+  "version": "1.0.0",
+  "description": "this is namaste react course",
+  "scripts": {
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshdreams333/namaste_react_2.git"
+  },
+  "author": "rajeshdreams333",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshdreams333/namaste_react_2/issues"
+  },
+  "homepage": "https://github.com/rajeshdreams333/namaste_react_2#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
